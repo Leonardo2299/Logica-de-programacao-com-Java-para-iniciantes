@@ -1,0 +1,14 @@
+INDEX VERSION 1.131+D:\workspace\Algaworks - Lógica de Programação com Java para Iniciantes\Aula 10 - Lendo arquivo\.metadata\.plugins\org.eclipse.jdt.core
+376818002.index
+925607230.index
+3998879082.index
+1865797976.index
+147837693.index
+736572925.index
+1497008921.index
+3201519017.index
+2571920697.index
+2544208412.index
+3652848947.index
+3567252920.index
+1595353905.index
